@@ -1,4 +1,5 @@
-# HaitTi_politicians_corruption_indexOverview
+# Haiti_politicians_corruption_index 
+Overview
 This Shiny app visualizes the history and extent of corruption among Haiti's political elite, from the era of Jean-Jacques Dessalines to the current political transitional period (CPT). The app provides interactive tools to explore and analyze corruption data by political figure and location, offering insights into the historical patterns and geographic distribution of corruption in Haiti.
 Features
 1. Interactive Map
